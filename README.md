@@ -70,6 +70,7 @@ Comandos alias recomendadosLos comandos start y dev se suelen usar mucho
 |npms | alias npms="npm start"|
 | alias rm="trash" |Para evitar eliminar permanente los archivos|
 | cl="clear" |El comando de clear se suele usar muchoalias |
+| gst | Git Status alias gst="git status"|
 
 Recursos!https://git-tower.com/blog/command-line-cheat-sheet/–https://www.shortcutfoo.com/app/dojos/command-line–https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 
@@ -79,7 +80,7 @@ Vamos a crear una pequeña CV en Dillinger.
 
 - Luego vamos a copiar dicho contenido y crearemos un nuevo archivo Markdown en nuestro HOME.
 
-- Finalmente haremos uso de 11ty para generar elHTML de dicho Markdown.
+- Finalmente haremos uso de 11ty para generar el HTML de dicho Markdown.
 
 Crear un Github Profile README
 
