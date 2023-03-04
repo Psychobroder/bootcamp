@@ -1,5 +1,7 @@
 # bootcampWithGuillermo
 
+Lo que aprendi en la escuela de botes es...
+
 Comandos básicos del sistema operativo
 
 | command | description |
@@ -14,11 +16,11 @@ Comandos para el manejo decarpetas
 | command | description |
 | ------ | ------ |
 |ls:  | Lista los archivos de la carpeta actual, o de la ruta dada. Ej. ls Documents . |
-| 1cd: | Nos permite navegar entre carpetas. Ej. cd Documents nos ubicaríaen /Users/<usuario>/Documents . |
-| 2pwd: | Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados. |
+| cd: | Nos permite navegar entre carpetas. Ej. cd Documents nos ubicaríaen /Users/<usuario>/Documents . |
+| pwd: | Nos nuestra la ruta absoluta del directorio actual, así podemos saberen dónde estamos ubicados. |
 | mkdir: | Crea una nueva carpeta dado un nombre para esa carpeta. Ej. mkdirhola |
-| 1cp -r: | Nos permite copiar una carpeta dada una ruta inicial y una ruta final.Ej. cp -r hola alo . |
-| 2rm -r:  | Nos permite eliminar una carpeta dada una ruta. Ej. rm -r hola .  |
+| cp -r: | Nos permite copiar una carpeta dada una ruta inicial y una ruta final.Ej. cp -r hola alo . |
+| rm -r:  | Nos permite eliminar una carpeta dada una ruta. Ej. rm -r hola .  |
 
 Comandos para el manejode archivos
 
